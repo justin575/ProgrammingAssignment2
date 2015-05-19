@@ -1,5 +1,4 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Together, these functions allow for creating of a matrix object that can cache its inverse, and for computing the inverse of the matrix object thus created.  We are able to avoid computing inverses for matrices for which we have already computed inverses.
 
 ## This function creates a special "matrix" object that can cache its inverse.
 
